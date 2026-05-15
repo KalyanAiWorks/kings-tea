@@ -1,0 +1,13 @@
+{
+  "name": "kings-tea-website",
+  "version": "1.0.0",
+  "description": "Professional website for KING'S TEA Hyderabad",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'Static site - no build required'",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["tea", "cafe", "hyderabad", "premium"],
+  "author": "KING'S TEA",
+  "license": "MIT"
+}
